@@ -2,7 +2,8 @@
 title: "So you want to do a public transit data project, part 1: Working with common sources"
 date: 2025-04-14 17:00:00 -0500
 categories: ["Public Transit", Data]
-tags: ["working with transit data"]     
+tags: ["working with transit data"]  
+description: "A short guide to common types of transit data and where to find them."   
 image:
   path: /assets/img/posts/jeremiah-higgins-lzBHm2sbJPM-unsplash.jpeg
   alt: A photo of a CTA Brown Line train at the Sedgwick station with bright sun glow.
