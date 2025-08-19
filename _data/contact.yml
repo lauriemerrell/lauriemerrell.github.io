@@ -10,6 +10,11 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: subscribe
+  icon: 'fas fa-envelope'
+  url: 'https://buttondown.com/lauriemerrell'
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
