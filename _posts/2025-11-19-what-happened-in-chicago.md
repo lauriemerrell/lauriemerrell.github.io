@@ -1,0 +1,95 @@
+---
+title: "What Happened in Chicago"
+date: 2025-11-19 18:00:00 -0500
+categories: ["Chicago"]
+description: 'An overview of federal activity in Chicagoland during the crackdown.'  
+image:
+  path: /assets/img/posts/111025-Border-Patrol-at-Millennium-Park-Colin-Boyle-0697.jpg
+  alt: [U.S. Border Patrol agents pose for a photo in downtown Chicago on November 10 2025. Credit - Colin Boyle/Block Club Chicago]
+---
+
+For my [last post](/posts/dispatch-from-occupied-chicago), I wrote about what it felt like to live in Chicago during "Operation Midway Blitz", the aggressive federal crackdown that has seemingly concluded (though some immigration enforcement is ongoing). Today, I want to share a longer writeup of some distinct "strands" of the story of the operation. I assume that many people, especially non-locals, saw isolated or fragmented updates that may not form a coherent picture. 
+
+So, this post is intended as a summary and overview. This summary is made possible by the tireless reporting of many local Chicago journalists whose work I link to throughout. 
+
+For related overviews, see [this post from "friend of the blog" Satoru Inoue](https://substack.com/home/post/p-174523597) and [this timeline from City Cast Chicago](https://chicago.citycast.fm/explainers/operation-midway-blitz-timeline).
+
+## Prologue: Winter and Summer 
+
+While "Operation Midway Blitz" began in September, federal activity has been ramping up [since the beginning of the current administration in January](https://www.theguardian.com/us-news/2025/jan/26/chicago-immigration-raids-ice). In January, "border czar" Tom Homan [complained](https://blockclubchicago.org/2025/01/28/chicago-very-well-educated-in-defying-ice-border-czar-says-after-immigration-crackdown-leads-to-100-arrests/) that Chicagoans are "very well educated" due to effective know your rights campaigns. (One of the most prominent organizations leading the charge has been the [Illinois Coalition For Immigrant & Refugee Rights](https://www.icirr.org/), which [could use your support](https://illinoiscoalitionforimmigrantandrefugeerights-bloom.kindful.com/?campaign=1242232)).
+
+There was a marked escalation starting in the summer, including [an incident in June](https://news.wttw.com/2025/06/05/local-leaders-advocates-push-back-against-ice-mass-arrests-south-loop) where federal agents used force against protestors and shoved an elected official to the ground after detaining immigrants who were attending scheduled check-ins at an immigration facility. Also in June, [ICE detained protestors outside immigration court](https://blockclubchicago.org/2025/06/18/protesters-detained-by-ice-outside-immigration-court-organizers-say/). These events kicked off many of the aggressive tactics used since.
+
+## Street Enforcement 
+
+When the "blitz" began in September, ICE/CBP and other federal agents started engaging in aggressive street enforcement activity in communities [throughout Chicagoland](https://bit.ly/chi_ice_map), with enforcement activity particularly concentrated in Latine neighborhoods on the Southwest Side and some adjacent suburbs. While the enforcement activity was not uniformly distributed, it was incredidibly widespread and included neighborhoods and suburbs that do not typically see mass street-level law enforcement activity, including [Lincoln Park](https://www.wbez.org/immigration/2025/10/24/immigration-agents-arrest-lake-view-protest-tear-gas-west-town) and [Evanston](https://evanstonroundtable.com/2025/10/31/ice-detains-one-person-near-oakton-and-sherman-friday-morning/).
+
+This enforcement involved agents [snatching people off the street](https://thetriibe.com/2025/09/protestor-chased-down-and-arrested-outside-broadview-ice-facility-one-killed-at-dallas-immigration-field-office/) or [private property](https://www.chicagotribune.com/2025/10/31/lakeview-resident-cpd-arrest-federal-agents-immigration-raid/). Agents routinely [raided](https://chicagoreader.com/news/border-patrol-ice-ohare-airport-raid/) the parking lot where rideshare drivers wait at O'Hare airport. People who [work outside](https://thetriibe.com/2025/10/federal-agents-detain-a-laborer-working-on-gated-apartment-building-in-west-ridge/) were especially vulnerable. 
+
+Enforcement actions were often sweeping and did not feature a warrant for a specific individual (see below for more on a lawsuit on that point). Gregory Bovino [told a WBEZ reporter that agents were arresting people based on "how they look"](https://www.wbez.org/immigration/2025/09/29/feds-march-into-downtown-chicago-top-border-agent-says-people-are-arrested-based-on-how-they-look). Latine Chicagoans were stopped, questioned, and detained [regardless of immigration status](https://www.chicagotribune.com/2025/11/15/latino-us-citizens-racially-profiled-immigration-chicago/). DHS claims that [over 3,000 people](https://wgntv.com/news/operation-midway-blitz/operation-midway-blitz-2-months/) were detained in the course of the "blitz". 
+
+### Violence and confrontations with communities
+
+Federal street enforcement frequently turned violent. Most seriously, in September, [federal agents killed Silverio Villegas González](https://unraveledpress.com/what-happened-to-silverio-villegas-gonzalez/), [a father who had just dropped off his children at daycare](https://www.chicagotribune.com/2025/10/12/silverio-villegas-children-foster-care-idaho/), and in early October they [shot](https://blockclubchicago.org/2025/10/05/federal-agents-shoot-woman-in-brighton-park-causing-tense-scene-with-protesters/) a woman named Marimar Martinez. Villegas González was killed at a traffic stop and Martinez was shot after a car-based confrontation; federal agents were involved in a [variety](https://www.chicagotribune.com/2025/10/14/ice-deploys-tear-gas-after-crash/) of [car crashes](https://www.chicagotribune.com/2025/11/03/chicago-woman-collision-ice-accountability/). 
+
+Agents deployed tear gas in [several](https://blockclubchicago.org/2025/10/24/border-patrol-boss-bovino-tear-gasses-chicago-crowd-violating-judges-order-lawyers-say/) [residential](https://blockclubchicago.org/2025/10/13/federal-agents-deploy-tear-gas-in-albany-park-as-neighbors-block-immigration-arrest/)  [neighborhoods](https://news.wttw.com/2025/10/24/federal-agents-fired-tear-gas-lakeview-crowd-protesting-immigration-raids-videos-show) when [neighbors come out to object](https://www.chicagotribune.com/2025/10/25/chicago-tear-gas-irving-park/) to their enforcement activities. In many of these cases, neighbors were gathering spontaneously in reaction to the agents' actions -- these were generally not pre-planned protests. To the extent that there was structured community response, it mostly took the form of people [standing watch](https://blockclubchicago.org/2025/10/08/chicago-neighbors-are-forming-watches-near-schools-to-protect-students-guardians-from-ice/) and [carrying whistles](https://www.chicagotribune.com/2025/10/20/whistles-chicago-ice/?share=t0hi5ro2wrtri5hptoic) to be ready to warn when agents appear.
+
+Beyond targeting people for perceived immigrant status, agents also repeatedly [detained](https://blockclubchicago.org/2025/10/27/laugh-factory-manager-detained-by-border-patrol-charged-with-assaulting-federal-officer/) [citizens](https://blockclubchicago.org/2025/10/14/wgn-employee-hires-lawyer-after-being-violently-assaulted-by-immigration-officers/), [including high school students](https://www.chalkbeat.org/chicago/2025/10/24/chicago-student-detained-by-federal-immigration-agents/) and [threatened](https://blockclubchicago.org/2025/10/21/ice-tells-north-side-alderperson-to-back-off-as-she-warns-neighbors-about-immigration-agents/) local elected officials monitoring their activities.  They [pointed a gun at a state representative](https://borderlessmag.org/2025/10/22/chicago-ice-immigration-albany-park-state-representative-hoan-huynh/), [detained members of an alderperson (city council member)'s staff](https://www.cbsnews.com/chicago/news/staff-members-for-22nd-ward-alderman-detained-by-agents-little-village/), and [handcuffed an alderwoman](https://blockclubchicago.org/2025/10/15/ald-jesse-fuentes-gears-up-to-sue-after-being-handcuffed-by-ice-agent/).
+
+### Children 
+
+Children were repeatedly impacted and even targeted in the course of the activities outlined above.
+
+Most directly, children were detained, including when [agents arrested an entire family -- including an 8 year old girl -- at Millennium Park](https://www.chicagotribune.com/2025/09/29/ice-immigrant-families-ohare/). Children had their parents detained in cases like [Torres Maldonado's](https://blockclubchicago.org/2025/10/22/local-leaders-demand-release-of-father-of-lake-view-cancer-patient-detained-by-ice/) -- his 16-year-old daughter is battling cancer. One mother described how her children ["cry every night, asking when their papá will come home."](https://www.hpherald.com/evening_digest/ice-detention-shatters-local-family/article_365f0e2a-d89b-4d94-9c75-0303314eecd7.html)
+
+Children also witnessed immigration enforcement actions and were hit with chemical munitions. Agents notably [entered a day care facility and pulled out a day care teacher in front of children and parents](https://blockclubchicago.org/2025/11/05/daycare-worker-pulled-out-of-school-by-armed-federal-agents-traumatizing-parents-say/). In another incident, a parent described how, after witnessing agents detaining someone, his son ["was crying and asked me what was happening and if people were going to come take him"](https://wgntv.com/news/operation-midway-blitz/wgn-employee-detained-amid-ice-activity-on-chicagos-north-side-later-released/). [Agents pepper sprayed a family with a one year old in a grocery store parking lot](https://blockclubchicago.org/2025/11/09/feds-again-use-tear-gas-in-little-village-after-clash-with-protesters-neighbors/).
+
+Children also suffered indirect impacts, including [missing school](https://www.chalkbeat.org/chicago/2025/10/31/school-attendance-down-in-latino-immigrant-neighborhoods-amid-ice-operation/). 
+
+## Broadview
+
+Street enforcement was widespread, sudden, and seemingly arbitrary. By contrast, the ICE processing facility in Broadview, a suburb 13 miles from downtown Chicago, has been a site of sustained detention and protest.
+
+### Detention
+
+The Broadview facility is not designed for prolonged detention. It is supposed to be used for realtime processing before people are sent elsewhere for ongoing detention. There are no official ICE detention facilities in Illinois, which has statewide sanctuary laws. Nonetheless, the Broadview facility [was used to hold people for days at a time](https://chicago.suntimes.com/immigration/2025/10/01/broadview-immigration-processing-center-detention-ice-dhs) [in inhumane conditions](https://chicago.suntimes.com/immigration/2025/10/31/advocates-allege-inhumane-conditions-at-chicago-area-ice-facility-in-new-lawsuit) with limited access to legal counsel. Detainees have [said that agents told them to sign deportation papers and lied about what they were](https://bsky.app/profile/djbyrnes1.bsky.social/post/3m4t2sb6nqk2p). Clergy were [denied access](https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility) to provide pastoral care.
+
+The [conditions experienced by former detainees](https://bsky.app/profile/djbyrnes1.bsky.social/post/3m4su3yqkms25) are disturbing. They describe insufficient access to food and water; no appropriate space to sleep; no private phone access; no private access to a toilet; no showers. The facility has been overcrowded.
+
+Immigrants were generally held at Broadview and then transferred out of state; for example, [José Pedrozo was transferred from Broadview to Texas and signed voluntary deportation papers after being held in inhumane conditions without his medication](https://www.hpherald.com/evening_digest/ice-detention-shatters-local-family/article_365f0e2a-d89b-4d94-9c75-0303314eecd7.html). 
+
+### Protest
+
+As the primary ICE enforcement-related facility in the region, Broadview has been a site of sustained protest, which has been heavily policed. 
+
+[Faith groups have protested regularly at Broadview for years](https://www.wbez.org/in-the-loop-with-sasha-ann-simons/2025/10/02/faith-leader-reflects-on-20-years-of-vigils-outside-broadview-ice-facility), but protest activity picked up as the enforcement blitz began. For several weeks in September and October, federal agents regularly attacked protestors, including with tear gas. These protests featured some high-profile incidents, including [federal agents throwing Congressional candidate Kat Abughazaleh to the ground](https://chicago.suntimes.com/news/2025/09/19/ice-broadview-protest-write-thru); federal agents [firing pepper balls at the head of Pastor David Black](https://www.fox32chicago.com/news/chicago-pastor-recounts-being-shot-pepper-ball-broadview-during-federal-court-hearing)
+; and the [iconic photo of protestor Curtis Evans](https://www.chicagotribune.com/2025/09/19/tear-gas-protesters-broadview-ice/) emerging from a cloud of tear gas with two American flags. It was also during a protest at Broadview that [ICE detained journalist Steve Held](https://thetriibe.com/2025/09/chicago-journalist-detained-while-covering-protest-outside-broadview-immigration-facility/). 
+
+After weeks of protest and violent federal response, [the Illinois State Police was deployed to Broadview](https://www.wbez.org/public-safety/2025/10/03/are-illinois-state-police-helping-ice-in-broadview), as were [members of other local police forces](https://evanstonroundtable.com/2025/10/04/broadview-ice-protests-illinois-state-police/). This deployment was presented as nominally for protestors' safety and to decrease conflict with the federal forces, but [state police continued to use force against protestors](https://blockclubchicago.org/2025/10/17/state-police-led-broadview-protesters-into-street-then-attacked-them-demonstrators-say/).
+
+## South Shore Raid
+
+There is one incident so egregious that it stands on its own: the [militarized raid on a residential building at 7500 S South Shore Drive during the night of September 30th](https://www.propublica.org/article/chicago-venezuela-immigration-ice-fbi-raids-no-criminal-charges). The raid featured agents going door to door inside the building; [one resident said he sheltered a neighbor and her daughter in his unit, and the girl hid under the bed](https://www.wbez.org/immigration/2025/10/10/neighbor-shielded-7-year-old-during-south-shore-federal-raid-i-didnt-want-them-to-take-her). Residents of different backgrounds had agents barge into their apartments and drag them out in the middle of the night, including Venezuelan recent arrivals, [non-immigrant Black residents](https://thetriibe.com/2025/10/south-shore-raid-triggers-past-traumas-and-sparks-new-conversations-about-divisions-between-black-and-latino-communities/), and [children](https://southsideweekly.com/federal-agents-storm-south-shore-building-detaining-families-and-children/). DHS [made a promotional video](https://www.instagram.com/p/DPZTrp0CXdc/) out of footage from the raid. 
+
+## The Courts
+
+The final main strand of activity during the blitz was the courts, where the legal fallout will continue for several months. 
+
+### Prosecutions
+
+Federal prosecutors pressed charges against locals for protest and resistance activities. This includes [the case against the "Broadview Six"](https://blockclubchicago.org/2025/11/12/6-broadview-protestors-plead-not-guilty-to-conspiracy-charges-as-supporters-rally-we-will-win/) alleging a "conspiracy to impede or injure federal officers" for protest actions at Broadview. Prosecutors also [brought felony assault charges](https://chicago.suntimes.com/immigration/2025/10/05/border-patrol-shooting-brighton-park-marimar-martinez) against Marimar Martinez related to the incident where she was shot by agents; [an agent's car in the case was taken to Maine for repairs](https://chicago.suntimes.com/immigration/2025/10/20/defense-wants-hearing-as-soon-as-possible-after-car-from-brighton-park-shooting-driven-to-maine) before the case could begin. These cases will be tried in the coming months.
+
+Similar to things that have happened in Washington, DC, a grand jury [refused to indict](https://www.wbez.org/immigration/2025/10/10/federal-grand-jury-refuses-indict-couple-guns-outside-ice-facility-broadview) a couple arrested at Broadview with (permitted) guns in their possession.
+
+### Pushback
+
+The other main thread of legal activity has been local, state, and community member lawsuits attempting to rein in federal activity in various ways. 
+
+* The city and state [sued](https://blockclubchicago.org/2025/10/09/judge-partially-blocks-trumps-national-guard-deployment-to-chicago/) to stop the deployment of the National Guard to Chicago. 
+* There was a [class action lawsuit](https://chicago.suntimes.com/immigration/2025/11/05/federal-judge-issues-temporary-restraining-order-governing-conditions-at-broadview-ice-facility) challenging the detention conditions at Broadview, which led to a judge ruling that conditions must be improved.
+* Journalists, faith leaders, and protestors [filed a lawsuit](https://blockclubchicago.org/2025/10/07/block-club-chicago-news-organizations-sue-feds-over-first-amendment-violations/) alleging First Amendment violations by federal agents. (The judge [read Carl Sandburg's famous poem "Chicago" from the bench](https://www.wbez.org/immigration/2025/11/11/carl-sandburg-chicago-poem-operation-midway-blitz-deportation-campaign-judge-sara-ellis) while making an initial ruling in favor of the plaintiffs.)
+* Another case [challenged](https://news.wttw.com/2025/11/12/judge-signals-hundreds-people-detained-chicago-immigration-crackdown-could-be-released) many of the warrantless arrests conducted by agents during the crackdown, alleging that these arrests violated an existing consent decree. 
+
+So far, these legal challenges have been breaking against the feds, with judges generally finding that the crackdown violated rights, overstepped bounds, and that [federal accounts of events on the ground were not credible](https://www.wbez.org/politics/2025/10/09/federal-judge-partially-grants-illinois-and-chicago-bid-to-block-trump-administration-national-guard-deployment). However, only the first case (regarding the National Guard) seems to have succeeded in proactively stopping federal activities. The rest of the cases are largely reactive and in many cases significant harm has already been done, even if it is later found to be illegal.
+
+*Post image by [Colin Boyle for Block Club Chicago](https://blockclubchicago.org/2025/11/14/this-week-in-photos-border-patrols-bean-photo-op-a-cta-ride-record-attempt-and-more/)*
