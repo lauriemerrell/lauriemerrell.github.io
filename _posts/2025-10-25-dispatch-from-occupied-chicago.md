@@ -38,6 +38,8 @@ This means that, for some of us, the experience of this crisis is largely mediat
 
 If you are tapped in and paying attention, the pattern has generally been that agents will concentrate in a particular neighborhood for a day or half a day, overwhelming the area with rapid actions, snatching people and (if they can) quickly moving on. So, most days your community might be totally quiet and then a day comes where things are lighting up everywhere around you all at once. One of the indicators that your neighborhood is being targeted is the presence of a helicopter hovering overhead. The sound is deeply unsettling.
 
+*Addendum, November 8: I realized one more thing I'll want to remember from this time: The weather in September and October has been absolutely beautiful. Clear, warm, mostly sunny. That has increased the feeling of dissonance.*
+
 ## How it feels
 
 ### Alienation
@@ -86,5 +88,7 @@ Here are a couple pieces that, to me, have helped capture the feeling of being i
 
 * [What I Need You To Understand, Notes from Chicago in Late October](https://dansinker.com/posts/2025-10-24-understand/) by Dan Sinker -- the end of this piece outlines some recommendations for ways to support Chicago, which I co-sign
 * [The Aftermath of ICE](https://southsideweekly.com/the-aftermath-2/) by Jim Daley in South Side Weekly
+* *Added November 8* [In Chicago, We Run Toward Danger Together](https://organizingmythoughts.org/in-chicago-we-run-toward-danger-together/) by Kelly Hayes
+* *Added November 8* [On repacking your unpacked funeral clothes](https://buttondown.com/camrodriguez/archive/11525-on-repacking-your-unpacked-funeral-clothes/) by Cam Rodriguez
 
 *Post image by [Hands Off Chicago](https://www.handsoffchicago.com/#takeaction)*
