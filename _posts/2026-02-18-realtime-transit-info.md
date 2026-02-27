@@ -25,7 +25,7 @@ _Real-time data flow schematic_
 
 When you see information about an upcoming transit vehicle arrival in an app, the data has probably gone through a version of the following process to reach you:
 
-0. The agency defined a schedule, which was likely loaded onto vehicle on-board systems and published publically 
+0. The agency defined a schedule, which was likely loaded onto vehicle on-board systems and published publicly 
 1. The vehicle transmits information about its current location
 2. The information from the vehicle is processed by the agency (or, often, one of their vendors), usually to produce and publish two distinct data feeds:
    * A vehicle positions feed with the location of the vehicle
