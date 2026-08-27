@@ -11,7 +11,7 @@ museums %>% mutate(label_text=str_c(name, str_c('Visited ',date), address,
                      str_c('<a href="', website, '" target="_blank">website</a>'),
                      sep = '<br>'))  %>% # paste fields into popup text
   leaflet() %>% # create leaflet map widget
-  addProviderTiles(providers$CartoDB.Positron) %>% # add muted palette basemap
+  addProviderTiles(providers$CartoDB.Positron, options=providerTileOptions(key="")) %>% # add muted palette basemap
   addMarkers(lng = ~ long, lat = ~ lat, popup = ~ label_text) %>% # add markers with popup text
   saveWidget('museum_map.html') # save map widget 
 
