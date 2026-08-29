@@ -7,11 +7,17 @@ library(htmlwidgets)
 
 museums <- read_csv('~/Downloads/museums.csv')
 
+##use https://stackoverflow.com/a/47025305 to add API key
+
 museums %>% mutate(label_text=str_c(name, str_c('Visited ',date), address,
                      str_c('<a href="', website, '" target="_blank">website</a>'),
                      sep = '<br>'))  %>% # paste fields into popup text
   leaflet() %>% # create leaflet map widget
-  addProviderTiles(providers$CartoDB.Positron, options=providerTileOptions(key="")) %>% # add muted palette basemap
+addTiles('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png?key=',
+    attribution = paste(
+      '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors',
+      '&copy; <a href="https://cartodb.com/attributions">CartoDB</a>'
+    )) %>% # add muted palette basemap
   addMarkers(lng = ~ long, lat = ~ lat, popup = ~ label_text) %>% # add markers with popup text
   saveWidget('museum_map.html') # save map widget 
 
