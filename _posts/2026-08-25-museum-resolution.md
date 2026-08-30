@@ -72,7 +72,7 @@ I did not use any library museum passes for this resolution; the program has bee
 
 I really enjoyed this resolution and would highly recommend something similar to others. I found it valuable to go to museums that were so different from one another and covered a range of types, topics, and perspectives. Visiting them all in a relatively short period of time fostered a comparative and accretive experience that I don't always associate with museums. For example, I learned about the photojournalist [Jun Fujita](https://en.wikipedia.org/wiki/Jun_Fujita) at the Chicago Maritime Museum (in the context of his photos of the [SS Eastland disaster](https://en.wikipedia.org/wiki/SS_Eastland)) and then saw his photography of [the 1919 race riot](https://en.wikipedia.org/wiki/Chicago_race_riot_of_1919) at the DuSable. 
 
-I didn't emerge with an overall ranking of the museums; despite the premise here, "going to a museum" is not really a totally generic or interchangeable activity and I think different people will get different things out of all these museums. I might recommend one to one person and another to another, based on each person's interests. 
+I didn't emerge with an overall ranking of the museums; despite the premise here, "going to a museum" is not necessarily a totally generic or interchangeable activity and I think different people will get different things out of all these museums. I might recommend one to one person and another to another, based on each person's interests. 
 
 That said, I will note two museums that I would recommend broadly for different reasons -- not necessarily *over* the others but just for reasons that I think might be of interest to a wide range of people:
 
