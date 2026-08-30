@@ -74,7 +74,7 @@ I really enjoyed this resolution and would highly recommend something similar to
 
 I didn't emerge with an overall ranking of the museums; despite the premise here, "going to a museum" is not necessarily a totally generic or interchangeable activity and I think different people will get different things out of all these museums. I might recommend one to one person and another to another, based on each person's interests. 
 
-That said, I will note two museums that I would recommend broadly for different reasons -- not necessarily *over* the others but just for reasons that I think might be of interest to a wide range of people:
+That said, I will note two museums that I would recommend broadly -- not *over* the others but just for reasons that I think might be of interest to a wide range of people:
 
 *  The DuSable Museum is striking and I wish that I had gone sooner. The artifacts there are particularly unique, informative, and effective at raising up histories that my formal education did not convey. They have exhibits regarding Harold Washington, the 1919 race riot, and the Black Panther Party that I would recommend to all Chicagoans.
 
