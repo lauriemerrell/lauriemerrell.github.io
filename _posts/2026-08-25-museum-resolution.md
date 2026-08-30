@@ -15,7 +15,7 @@ Like many people, I have had an ambivalent relationship with new year's resoluti
 !["Screenshot of a Tumblr post that says: 'every time i ask people if they do any new years resolutions its all ooooo i dont like making them bc i fail or ohhhhh no i couldnt keep up wiht that and then when they ask me and i tell them about Pasta Quest (i am eating as many different pasta shapes as possible in the space of a year) or when i did Fruit Adventures (every time i saw a fruit i had never eaten before id get one and eat it and read the wikipedia article about it) theyre like hang on i forgot you can make Fun Ones i want a fun one'"](/assets/img/posts/you-can-make-fun-ones.png){: width="250" }
 _"i forgot you can make Fun Ones i want a fun one"_
 
-So, in 2024, I chose a "fun" resolution. Influenced partially by the then-forthcoming opening of the National Public Housing Museum (more on that later), I decided to set a goal to visit 12 museums that:
+So, in 2024, I chose a "fun" resolution. I decided to set a goal to visit 12 museums that:
 
 1. I had never been to before
 2. Are located inside the city of Chicago
@@ -23,7 +23,9 @@ So, in 2024, I chose a "fun" resolution. Influenced partially by the then-forthc
 
 The 2nd and 3rd requirements are admittedly pretty arbitrary but I wanted to explore the city specifically and I wanted to give myself a rule up front about what "counts" as a museum. 
 
-The 1st criterion ruled out (in no particular order): the Field Museum, the Museum of Science and Industry, the National Museum of Mexican Art, the Smart Museum, the Chicago History Museum, the Institute for the Study of Ancient Cultures Museum, the Museum of Contemporary Art, and possibly others. The Art Institute, Newberry Library, Cultural Center, Robie House, and the weird little gallery inside the Water Tower would technically be disqualified under #3 but were moot because of #1. 
+The 1st criterion ruled out (in no particular order): the Field Museum, the Museum of Science and Industry, the National Museum of Mexican Art, the Smart Museum, the Chicago History Museum, the Institute for the Study of Ancient Cultures Museum, the Museum of Contemporary Art, and possibly others. I believe that the Art Institute, Newberry Library, Cultural Center, Robie House, and the weird little gallery inside the Water Tower would technically be disqualified under #3 but were also moot because of #1. 
+
+The target number 12 was chosen to imply a monthly schedule, which seemed reasonable and achievable while still feeling like an accomplishment. (I think this resolution qualified as a [SMART goal](https://en.wikipedia.org/wiki/SMART_criteria).)
 
 ## Where I went
 
@@ -44,7 +46,7 @@ With the criteria established, I ended up visiting the following museums (in chr
 
 I went to some museums on my own and others with an assortment of friends and family -- shout out to D (and D's mom L), K, P, E, and J for joining various museum adventures. 
 
-2024 was a pretty calamitous year for me and my family, so the timing on the resolution ended up being very uneven; rather than a nice monthly cadence (which was the goal with the "12" target), I ended up trying to speedrun ten museums in two weeks around Christmas. Oh well!
+2024 was a pretty calamitous year for me and my family, so the timing on the visits ended up being very uneven; rather than the planned monthly cadence, I ended up trying to speedrun ten museums in two weeks around Christmas. Oh well!
 
 Though it wasn't technically part of the resolution, I did get a picture of myself at each museum (included in the header image on this post), and I liveblogged the process in [this Bluesky thread](https://bsky.app/profile/laurie-merrell.bsky.social/post/3ldmgj3pdvv2q). My facial expressions in the photos do not necessarily reflect any sort of review of the given museum. 
 
