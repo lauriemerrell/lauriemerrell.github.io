@@ -1,6 +1,6 @@
 ---
 title: "My Year of Museums"
-date: 2026-08-26 17:00:00 -0500
+date: 2026-08-30 11:45:00 -0500
 categories: [Chicago]
 description: "In 2024, I set a new year's resolution to visit twelve new-to-me museums in Chicago. Here's how it went."  
 image:
