@@ -15,7 +15,7 @@ Like many people, I have had an ambivalent relationship with new year's resoluti
 !["Screenshot of a Tumblr post that says: 'every time i ask people if they do any new years resolutions its all ooooo i dont like making them bc i fail or ohhhhh no i couldnt keep up wiht that and then when they ask me and i tell them about Pasta Quest (i am eating as many different pasta shapes as possible in the space of a year) or when i did Fruit Adventures (every time i saw a fruit i had never eaten before id get one and eat it and read the wikipedia article about it) theyre like hang on i forgot you can make Fun Ones i want a fun one'"](/assets/img/posts/you-can-make-fun-ones.png){: width="250" }
 _"i forgot you can make Fun Ones i want a fun one"_
 
-So, in 2024, I chose a "fun" resolution. Influenced partially by the then-forthcoming opening of the National Public Housing Museum (more on that later), I decided to visit 12 museums that:
+So, in 2024, I chose a "fun" resolution. Influenced partially by the then-forthcoming opening of the National Public Housing Museum (more on that later), I decided to set a goal to visit 12 museums that:
 
 1. I had never been to before
 2. Are located inside the city of Chicago
@@ -42,37 +42,37 @@ With the criteria established, I ended up visiting the following museums (in chr
 11. [DuSable Black History Museum](https://dusablemuseum.org/)
 12. [Leather Archives and Museum](https://www.leatherarchives.org/)
 
-I went to some museums on my own and others with an assortment of friends and family -- shout out to D, K, D's mom L, P, E, and J for joining various museum adventures. 
+I went to some museums on my own and others with an assortment of friends and family -- shout out to D (and D's mom L), K, P, E, and J for joining various museum adventures. 
 
-2024 was a pretty calamitous year for me and my family, so the timing on the resolution ended up being very uneven; rather than a nice monthly cadence (which was the goal with the "12" target), I ended up visiting 10 museums in the last two weeks of December. Oh well!
+2024 was a pretty calamitous year for me and my family, so the timing on the resolution ended up being very uneven; rather than a nice monthly cadence (which was the goal with the "12" target), I ended up trying to speedrun ten museums in two weeks around Christmas. Oh well!
 
 Though it wasn't technically part of the resolution, I did get a picture of myself at each museum (included in the header image on this post), and I liveblogged the process in [this Bluesky thread](https://bsky.app/profile/laurie-merrell.bsky.social/post/3ldmgj3pdvv2q). My facial expressions in the photos do not necessarily reflect any sort of review of the given museum. 
 
 ## Map
 
-Getting out and about in the city was part of the goal of the resolution. Because of the time crunch (trying to speedrun ten museums in two weeks around Christmas), I ended up going to a lot of Far North Side and Downtown museums and did not explore as many neighborhoods as I might have hoped. Basically all the museums I went to were roughly off the Red Line or 22; the DuSable is the only one that I drove to. 
+Getting out and about in the city was part of the goal of the resolution. Because of the unintended time crunch, I ended up going to a lot of Far North Side and Downtown museums (basically, "places off the 22 bus and/or the Red Line") and did not explore as many neighborhoods as I had hoped. 
 
 <iframe src="/scripts_and_scratch/museum_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 ## Missed opportunities
 
-The [National Public Housing Museum](https://nphm.org/) was a big inspiration for the resolution, since it was slated to open in 2024, but it ended up not actually opening that year so it did not end up being included. I also wanted to visit the [McCormick Bridge House & Chicago River Museum](https://www.bridgehousemuseum.org/) but missed the opening season. 
+The [National Public Housing Museum](https://nphm.org/) was a big inspiration for the resolution, since it was slated to open in 2024, but it ended up not actually opening that year so I was not able to include it. I also wanted to visit the [McCormick Bridge House & Chicago River Museum](https://www.bridgehousemuseum.org/) but missed the opening season. 
 
 I also wish I had taken better notes or journaled as I went, and posted a writeup like this sooner.
 
 ## Reflections
 
-I really enjoyed this resolution and would highly recommend something similar to others. It was very generative and interesting to go to a bunch of museums in a short period of time since it fosters a comparative and additive experience that I don't always associate with museums. For example, I learned about the photojournalist [Jun Fujita](https://en.wikipedia.org/wiki/Jun_Fujita) at the Chicago Maritime Museum (in the context of his photos of the [SS Eastland disaster](https://en.wikipedia.org/wiki/SS_Eastland)) and then saw his photography of [the 1919 race riot](https://en.wikipedia.org/wiki/Chicago_race_riot_of_1919) at the DuSable. 
+I really enjoyed this resolution and would highly recommend something similar to others. It was very generative and interesting to go to a bunch of museums in a short period of time; it fostered a comparative and accretive experience that I don't always associate with museums. For example, I learned about the photojournalist [Jun Fujita](https://en.wikipedia.org/wiki/Jun_Fujita) at the Chicago Maritime Museum (in the context of his photos of the [SS Eastland disaster](https://en.wikipedia.org/wiki/SS_Eastland)) and then saw his photography of [the 1919 race riot](https://en.wikipedia.org/wiki/Chicago_race_riot_of_1919) at the DuSable. 
 
 I also found it valuable to go to museums that were so different from one another and covered a range of types, scales, and perspectives. I saw some strong commonalities between the Swedish American Museum and the Chinese American Museum of Chicago and the roles that they try to play for their communities, while the Leather Museum is communally-focused in overlapping but different ways.
 
 I didn't emerge with an overall ranking of the museums; despite the premise here, "going to a museum" is not really a totally generic or interchangeable activity and I think different people will get different things out of all these museums. I might recommend one to one person and another to another, based on each person's interests. 
 
-That said, I will note two that I would recommend broadly for different reasons -- not necessarily *over* the others but just for reasons that I think might be of interest to a broad range of people:
+That said, I will note two museums that I would recommend broadly for different reasons -- not necessarily *over* the others but just for reasons that I think might be of interest to a wide range of people:
 
-*  The DuSable Museum is striking and I wish that I had gone sooner. The artifacts there are particularly unique, informative, and compelling (in some cases, associated with profound historical violence.) They cover some Chicago-specific history regarding Harold Washington, the 1919 race riot, and the Black Panther Party that I think Chicagoans should know.
+*  The DuSable Museum is striking and I wish that I had gone sooner. The artifacts there are particularly unique, informative, and effective at raising up histories that my formal education did not convey. They have exhibits regarding Harold Washington, the 1919 race riot, and the Black Panther Party that I would recommend to all Chicagoans.
 
-* The Design Museum of Chicago is thought provoking (though they don't have any permanent exhibits, so the content has fully changed since my 2024 visit), contemporary, free, and right across the street from the Cultural Center. The Cultural Center is one of my big recommendations for visitors who want to go downtown, so I would add the Design Museum to a day out at the Cultural Center and Millennium Park. 
+* The Design Museum of Chicago is thought-provoking (though they don't have any permanent exhibits, so the content has fully changed since my 2024 visit), contemporary, free, and right across the street from the Cultural Center. The Cultural Center is one of my big recommendations for visitors who want to do stuff downtown, so I would add the Design Museum to a day out at the Cultural Center and Millennium Park. 
 
 However, my biggest recommendation is just: go to more museums! There are dozens and dozens of museums in a city like Chicago and they reflect an immense amount of care and effort from people working to curate and communicate information about different communities and topics. Going to museums in person is a chance to engage with information in an embodied way distinct from the screen-mediated day-to-day. Something like a new year's resolution can provide motivation and structure, but it's certainly not necessary.
 
