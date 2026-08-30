@@ -15,7 +15,11 @@ Like many people, I have had an ambivalent relationship with new year's resoluti
 !["Screenshot of a Tumblr post that says: 'every time i ask people if they do any new years resolutions its all ooooo i dont like making them bc i fail or ohhhhh no i couldnt keep up wiht that and then when they ask me and i tell them about Pasta Quest (i am eating as many different pasta shapes as possible in the space of a year) or when i did Fruit Adventures (every time i saw a fruit i had never eaten before id get one and eat it and read the wikipedia article about it) theyre like hang on i forgot you can make Fun Ones i want a fun one'"](/assets/img/posts/you-can-make-fun-ones.png){: width="250" }
 _"i forgot you can make Fun Ones i want a fun one"_
 
-So, in 2024, I chose a "fun" resolution. I decided to set a goal to visit 12 museums that:
+So, in 2024, I chose a "fun" resolution. 
+
+## The parameters
+
+For the resolution, I decided to visit 12 museums that:
 
 1. I had never been to before
 2. Are located inside the city of Chicago
