@@ -17,13 +17,13 @@ The information on this page is intended for people who are eligible to vote in 
 This is focused on Chicago-specific resources. [Ballotpedia](https://ballotpedia.org/Sample_Ballot_Lookup) is a general (non-Chicago-specific) resource. 
 
 
-# What is on the ballot
+## What is on the ballot
 
 This is a general election covering federal, state, and local offices; judicial retention (whether judges should get to keep their spots); and advisory (non-binding) referendum questions. This is notably the first election for a fully-elected school board for Chicago Public Schools. 
 
 You can [preview your specific ballot here](https://chicagoelections.gov/voting/your-voter-information) or [see a general list of offices and other decisions on the ballot here](https://chicagoelections.gov/offices-ballot).
 
-# Non-endorsement voter guides and resources
+## Non-endorsement voter guides and resources
 
 These are non-partisan resources that don't make recommendations on who or what to vote for. I recommend looking at news coverage of the candidates (some is linked from within these guides) in addition to the questionnaires/structured information in these types of guides; especially in the school board president race, there has been reporting on controversies that is not included in central guide content.
 
@@ -34,7 +34,7 @@ These are non-partisan resources that don't make recommendations on who or what 
 
 * [Injustice Watch Check Your Judges judicial election guide](https://2026retention.injusticewatch.org/): This guide provides the most extensive, structured information on the judges that are up for retention (they also have [information on what judicial retention means](https://www.injusticewatch.org/judges/judicial-elections/2026/cook-county-judicial-retention-elections-explained/))
 
-# Endorsement voter guides
+## Endorsement voter guides
 
 These are resources that make recommendations on who and what to vote for. I'm only including ones that include written explanations for their endorsements.
 
@@ -44,16 +44,16 @@ Personally, I find it helpful to read endorsements from multiple sources because
 * [Chicago Tribune Editorial Board endorsements](https://www.chicagotribune.com/2026/10/13/tribune-editorial-board-endorsements-2026/): Centrist/right endorsements (requires a Tribune subscription)
 * [A City that Works’ Guide to the 2026 November Election](https://citythatworks.substack.com/p/a-city-that-works-guide-to-the-2026-2ab): I'll defer to how they describe their own politics -- they have [said](https://citythatworks.substack.com/p/introducing-a-city-that-works-pac) they support "candidates who are willing to make tough choices on issues like pensions and public safety, but also embrace growth and housing in their communities"
 
-# How to vote
+## How to vote
 
 [chicagoelections.gov](https://chicagoelections.gov/) is your one-stop shop for information on how to vote in Chicago.
 
-## Key dates
+### Key dates
 * **October 19, 2026**: Early voting opens in all the wards. A couple downtown locations are already open for early voting at time of posting. See [this early voting page](https://chicagoelections.gov/voting/early-votingvote-centers) for details. 
 * **October 29, 2026**: Last day to apply to [vote by mail](https://chicagoelections.gov/voting/vote-mail), but (this is me editorializing) **this is cutting it very close**! Ballots must be postmarked or dropped into a dedicated drop box before or on Election Day! If you want to vote by mail, request your ballot ASAP. 
 * **November 3, 2026**: Election Day! Mail ballots must be postmarked or returned to a dedicated drop box on or by this date. 
 
-## Notable rules
+### Notable rules
 * We have same-day voter registration in Illinois. You can register to vote (or change your registration, e.g. for a new address) up to and including Election Day. See [this page](https://chicagoelections.gov/voting/register-votechange-name-or-address) for details on eligibility and ID requirements. 
 * Chicago voters can vote (or register, or update their registration) at [any Chicago early voting site](https://chicagoelections.gov/voting/early-votingvote-centers) (doesn't have to be in your ward!), up to and including on Election Day. 
 
